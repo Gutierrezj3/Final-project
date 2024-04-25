@@ -136,7 +136,7 @@ a:hover, a:active {
 .entry-title {
     font-size: 24px;
     font-weight: bold;
-    color: #9f0707;
+    color: #ca0909;
     margin-bottom: 10px;
 }
 
@@ -150,7 +150,7 @@ a:hover, a:active {
 }
 
 .entry-info {
-    background: #9f0707;
+    background: #e10808;
     color: #ffffff;
     font-size: 12px;
     padding: 5px 10px;
