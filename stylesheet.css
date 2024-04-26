@@ -157,6 +157,14 @@ a:hover, a:active {
     margin-bottom: 15px;
     border-radius: 3px;
 }
+.entry-info1 {
+    background: #e10808;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 5px 10px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+}
 
 .entry-content {
     font-size: 14px;
