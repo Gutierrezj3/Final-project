@@ -1,2 +1,2 @@
-Jonathan Gutierrez-gutierrezj3@mymail.nku.edu-Index1.html and Projects.html(created nav bar, edited stylesheet, changed pagination,)
+Jonathan Gutierrez-gutierrezj3@mymail.nku.edu-Index1.html and Projects.html and blackwind.html and monkeyrace.html and wtf.html and clashofpup.html(created nav bar, edited stylesheet, changed pagination, added other project pages and changed layout on them)
 Camden Bohanan-bohananc1@mymail.nku.edu-about.html and contact html(edited layout and way information is presented.)
