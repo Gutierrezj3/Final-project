@@ -208,3 +208,12 @@ a:hover, a:active {
     font-size: 14px;
     padding: 20px 0;
 }
+.link-list {
+    color: red; 
+    text-align: center; 
+    word-spacing: 10px;
+    font-weight: bold;
+}
+a:hover {
+    color: black;
+}
